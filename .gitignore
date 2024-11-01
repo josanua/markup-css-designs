@@ -1,0 +1,21 @@
+### Web template
+*.asp
+*.cer
+*.csr
+*.css
+*.htm
+*.html
+*.js
+*.jsp
+*.php
+*.rss
+*.wasm
+*.wat
+*.xhtml
+
+### Sass template
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
