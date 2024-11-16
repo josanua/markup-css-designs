@@ -1,0 +1,14 @@
+{
+  "name": "markup-css-designs",
+  "version": "1.0.0",
+  "description": "Improve css coding",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass" : "sass sass/main.scss css/style.css -w"
+  },
+  "author": "Josanu",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.81.0"
+  }
+}
